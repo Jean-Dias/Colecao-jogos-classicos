@@ -10,3 +10,7 @@ Este é um projeto feito com PHP que simula um catálogo de jogos clássicos. Ne
 - Visualização dos jogos em cards
 - Filtro de busca por gênero
 - Layout responsivo com Bootstrap
+
+- Integrantes:
+- Jean dias de almeidas
+- Guilerme Candida de Amorin
